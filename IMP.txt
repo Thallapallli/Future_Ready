@@ -56,6 +56,7 @@
 
 
 
-changes made in github for checking the Pull request from git bash
+changes made in Local repository to verify Push
+
 
 	
