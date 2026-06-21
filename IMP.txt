@@ -1,0 +1,58 @@
+1. ARM Architecture Fundamentals
+	A. ARM processor families(A/R?M)
+
+	B. ARM Modes & Exception Levels(User/privilized/supervisor-modes
+					Exception levels in ARM_V8)
+
+	C. ARM Registers->PC, SP, LR, CPSR/SPSR, General purpose registers
+
+	D. ARM Instruction Set->
+			1. Load and Store Architecture
+			2. ARM vs Thumb Mode
+			3. Branvh instruction 
+			4. Conditional Execution
+
+	E. Memory Architecture
+			1. FLASH, SRAM
+			2. Memory mapped IO
+			3. Vector Table
+			4. Stack and heap
+			6. Endianess
+			7. Alignment
+
+	F. ARM Boot Process
+			Power On  -> reset handler  -> Boot ROM -> Bootloader -> Firmware/Kernel
+
+
+2. Basic Assembly
+	MOV, LDR, STR, PUSH, POP, BL, BX, CMP, BNE
+
+3. ARM Cortex-M deep Understanding
+	
+	A. Nested vector interrupt Controller
+		Vector table, Preemption, ISR execution, Tail Chaining, Latency.
+
+	B. SysTick Timer
+	C. MPU and MMU differences.
+
+4. Bootloaders
+	A. Boot sequence
+	B. primary vs secondary Bootloader
+	C. secure Boot Basics
+
+
+5. BIOS and UEFI Fundamentals 
+	A. legacy BIOS Architecture
+	B. POST
+	C. MBR Booting
+	D. UEFI Boot Flow
+	E. UEFI Concepts
+
+
+6. UEFI-EDK II
+	A. UEFI Drivers
+	B. INF, DSC, FDF files
+	C. Package Archoitecture
+
+
+	
