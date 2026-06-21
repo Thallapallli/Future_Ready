@@ -55,8 +55,4 @@
 	C. Package Archoitecture
 
 
-
-changes made in Local repository to verify Push
-
-
 	
